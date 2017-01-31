@@ -42,7 +42,7 @@ Now you have it in `pkg/jekyll-docs-3.1.1.gem`.
 
 ### Releasing
 
-Ensure the tag for the version is available on the `jekyll/jekyll` repo in the form of `vVERSION`, e.g. `v3.1.2`.
+Ensure the tag for the version is available on the `jekyll/jekyll` repo in the form of version (via the `JEKYLL_VERSION` constant), e.g. `v3.1.2`.
 
 ```console
 $ export JEKYLL_VERSION=3.1.2
